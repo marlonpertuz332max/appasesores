@@ -1,0 +1,13 @@
+{
+  "name": "Consulta de clientes · TV Cable Express",
+  "short_name": "Express Asesores",
+  "description": "Consulta de estado de clientes para asesores de TV Cable Express.",
+  "lang": "es-CO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f4f8",
+  "theme_color": "#591383",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

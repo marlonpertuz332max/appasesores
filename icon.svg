@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="256" fill="#591383"/>
+  <g transform="rotate(-22 256 213)">
+    <ellipse cx="256" cy="249" rx="116" ry="56" fill="#f6c91c" stroke="#4a105e" stroke-width="10"/>
+    <path d="M140 219c8-33 52-58 116-58s108 25 116 58v42c-8 33-52 58-116 58s-108-25-116-58z" fill="#e93224" stroke="#4a105e" stroke-width="10"/>
+    <ellipse cx="256" cy="217" rx="116" ry="55" fill="#f5cb20" stroke="#4a105e" stroke-width="10"/>
+    <path d="M154 201c23-24 60-39 102-39s79 15 102 39c-23 20-60 32-102 32s-79-12-102-32z" fill="#d92c25"/>
+    <ellipse cx="256" cy="194" rx="69" ry="27" fill="#edc51b" stroke="#4a105e" stroke-width="8"/>
+    <path d="M198 186c16-12 36-19 58-19 23 0 43 7 59 19-16 10-36 16-59 16-22 0-42-6-58-16z" fill="#dc3028"/>
+    <ellipse cx="224" cy="180" rx="36" ry="14" transform="rotate(-25 224 180)" fill="#ffdf20"/>
+  </g>
+  <text x="256" y="389" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" letter-spacing="15" fill="#f2322b">TV CABLE</text>
+  <text x="256" y="461" text-anchor="middle" font-family="Arial,sans-serif" font-size="62" font-weight="900" font-style="italic" letter-spacing="-3" fill="#ffdc28" stroke="#d72925" stroke-width="3" paint-order="stroke">EXPRESS</text>
+</svg>
